@@ -90,7 +90,7 @@ const WeatherApp = () => {
 
             <div className="weather-image">
                 <img src={wicon} alt="" />
-                <div className="weather-description">Hardcoded Description</div>
+                <div className="weather-description">Weather Description</div>
             </div>
             <div className='body-right'>
 
